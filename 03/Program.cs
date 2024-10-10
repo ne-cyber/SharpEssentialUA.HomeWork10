@@ -180,7 +180,9 @@ namespace _03
 
 
 
-            
+            //MagicBear bear3 = new MagicBear();
+            //bear3.Open<object>();
+            //bear3.Open<Creature>();
 
 
             Console.ReadKey();
